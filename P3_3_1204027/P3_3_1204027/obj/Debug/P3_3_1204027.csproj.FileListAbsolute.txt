@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\bin\Debug\P3_3_1204027.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\bin\Debug\P3_3_1204027.exe
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\bin\Debug\P3_3_1204027.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\obj\Debug\P3_3_1204027.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\obj\Debug\P3_3_1204027.Form.resources
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\obj\Debug\P3_3_1204027.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\obj\Debug\P3_3_1204027.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\obj\Debug\P3_3_1204027.exe
+c:\users\asus\documents\visual studio 2015\Projects\P3_3_1204027\P3_3_1204027\obj\Debug\P3_3_1204027.pdb

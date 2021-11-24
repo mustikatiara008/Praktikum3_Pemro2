@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\bin\Debug\P3_2_1204027.exe.config
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\bin\Debug\P3_2_1204027.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\bin\Debug\P3_2_1204027.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.ChilForm.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.ParentFrom.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\P3_2_1204027\P3_2_1204027\obj\Debug\P3_2_1204027.pdb
